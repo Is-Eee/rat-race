@@ -1,0 +1,13 @@
+canvas {
+  width: 512px;
+  height: 512px;
+  margin: auto;
+  background: green;
+  image-rendering: pixelated;
+  display: block;
+}
+
+body {
+  text-align: center;
+  background-color: #D2E7FF;
+}
